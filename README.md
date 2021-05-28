@@ -1,8 +1,8 @@
 - 👋 Hello there , this is  @R1999T(RaghavTiwari)
 
-- 👀 I’m interested in DEVOPS tools like Ansible, Jenkins, Kubernetes, Docker, Prometheus, Grafana, CLOUD and other AUTOMATION tools. 
-- 👀 I love to learn new technologies and to integrate them according to the usecase, I'm also working on my Data Structures and Algorithms 🤓 and also have interest in Machi.
-- 🌱 I’m currently learning Jenkins and AWS cloud.
+- 👀 I’m have good experience in DEVOPS tools like Ansible, Jenkins, Kubernetes, Docker,  CLOUD, etc. 
+- 👀 I love to learn new technologies and to integrate them according to the usecase, I'm also working on my Data Structures and Algorithms 🤓 and also have interest in Machine Learning.
+- 🌱 I have good experience in Jenkins and AWS cloud.
 - I am Persuing Bachelor's of Technology in Electronics and Communications from  🏛 JAIPUR ENGINEERING COLLEGE AND RESEARCH CENTRE 🏛 
 - 📫 How to reach me: raghavtiwari7151@gmail.com
 
